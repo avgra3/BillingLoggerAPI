@@ -26,4 +26,4 @@ uvicorn main:app --reload --reload-dir ./api --app-dir ./api --port 8000
 
 <!-- References -->
 [AvaloniaUI]: https://docs.avaloniaui.net/
-[FastAPI]: https://fastapi.tiangolo.com/
+[Fast API]: https://fastapi.tiangolo.com/
